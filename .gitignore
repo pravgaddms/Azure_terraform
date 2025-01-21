@@ -1,6 +1,7 @@
 # Terraform state files
 lessons/*/*.tfstate
 *.tfstate.*
+.terraform.lock.hcl
 
 # Crash log files
 crash.log
