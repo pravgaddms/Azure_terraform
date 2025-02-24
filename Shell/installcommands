@@ -1,0 +1,4 @@
+#To Install az cli command.
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+
+sudo snap install kubectl --classic
