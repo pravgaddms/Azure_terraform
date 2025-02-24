@@ -7,7 +7,7 @@ VNET_NAME="MyVNet"
 SUBNET_NAME="MySubnet"
 VM_NAME="MyLinuxVM"
 VM_SIZE="Standard_B2s"
-IMAGE="UbuntuLTS"
+IMAGE="Ubuntu2204"
 ADMIN_USER="azureuser"
 
 # Create Resource Group
